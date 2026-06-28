@@ -1,4 +1,16 @@
-# Nerrowake Playbook
+<p align="center">
+  <img src="assets/brand/nerrowake-banner.png" alt="Nerrowake - Build the worlds you wake up in." width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/brand/nerrowake-logo.png" alt="Nerrowake logo" width="112">
+</p>
+
+<h1 align="center">Nerrowake Playbook</h1>
+
+<p align="center">
+  <strong>Engineering standards for thoughtful, maintainable software.</strong>
+</p>
 
 The Nerrowake playbook defines shared engineering, design, documentation, and
 repository standards for Nerrowake projects.
